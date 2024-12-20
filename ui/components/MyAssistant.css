@@ -1,0 +1,10 @@
+.dark-theme {
+  background-color: #121212; /* Dark background color */
+  color: #ffffff; /* Light text color */
+}
+
+.dark-theme a {
+  color: #bb86fc; /* Link color */
+}
+
+/* Additional styles for other elements can be added here */
